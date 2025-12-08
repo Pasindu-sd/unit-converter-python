@@ -4,14 +4,25 @@ The user selects the type of conversion from a menu, inputs the value, and the p
 
 Features :
 Length conversions:
+
 Kilometers ↔ Meters
+
 Meters ↔ Centimeters
+
 Weight conversions:
+
 Kilograms ↔ Grams
+
 Time conversions:
+
 Hours ↔ Minutes
+
 Volume conversions:
+
 Liters ↔ Milliliters
+
 Simple menu-driven terminal interface
+
 Easy to extend for more unit conversions
+
 No external libraries required
